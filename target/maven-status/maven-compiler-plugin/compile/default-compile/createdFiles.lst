@@ -1,9 +1,14 @@
-it\akademija\InMemoryProductDAO.class
+it\akademija\Users\InMemoryUserDAO.class
 it\akademija\HelloController$Result.class
 it\akademija\App.class
 it\akademija\AppConfig.class
 it\akademija\CreateProduct.class
+it\akademija\Users\CreateUsers.class
+it\akademija\ProductDao.class
+it\akademija\InMemoryProductDAO.class
+it\akademija\Users\User.class
+it\akademija\Users\UserController.class
+it\akademija\Users\UserDao.class
 it\akademija\HelloController.class
 it\akademija\Products.class
 it\akademija\ProductControler.class
-it\akademija\ProductDao.class

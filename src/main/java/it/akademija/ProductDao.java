@@ -6,5 +6,5 @@ public interface ProductDao {
     List<Products> getProducts();
     void createProduct(Products product);
 
-    void deleteUser(String name);
+    void deleteProduct(String name);
 }
