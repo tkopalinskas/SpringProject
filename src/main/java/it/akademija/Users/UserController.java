@@ -24,7 +24,7 @@ public class UserController {
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void deleteUser(@PathVariable final String username){
         System.out.println("deleting User: " + username);
-        userDao.delteUser(username);
+        userDao.deleteUser(username);
     }
     @RequestMapping(method = RequestMethod.GET)
     public List<User> getUsers(){

@@ -20,9 +20,10 @@ public class InMemoryUserDAO implements UserDao {
     }
 
     @Override
-    public void delteUser(String username) {
+    public void deleteUser(String username) {
         for (User user : users){
             if (username.equals(user.getUsername()));
+            users.remove(user);
             break;
         }
     }
