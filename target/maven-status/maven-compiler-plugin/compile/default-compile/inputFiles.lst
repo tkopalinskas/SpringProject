@@ -1,12 +1,15 @@
 C:\Projects\hello-world-calc\src\main\java\it\akademija\AppConfig.java
 C:\Projects\hello-world-calc\src\main\java\it\akademija\CreateProduct.java
 C:\Projects\hello-world-calc\src\main\java\it\akademija\ProductControler.java
+C:\Projects\hello-world-calc\src\main\java\it\akademija\Users\UserService.java
 C:\Projects\hello-world-calc\src\main\java\it\akademija\InMemoryProductDAO.java
 C:\Projects\hello-world-calc\src\main\java\it\akademija\App.java
 C:\Projects\hello-world-calc\src\main\java\it\akademija\ProductDao.java
 C:\Projects\hello-world-calc\src\main\java\it\akademija\Products.java
 C:\Projects\hello-world-calc\src\main\java\it\akademija\Users\UserDao.java
+C:\Projects\hello-world-calc\src\main\java\it\akademija\Users\DBUserDao.java
 C:\Projects\hello-world-calc\src\main\java\it\akademija\Users\UserController.java
+C:\Projects\hello-world-calc\src\main\java\it\akademija\Users\UserRepository.java
 C:\Projects\hello-world-calc\src\main\java\it\akademija\HelloController.java
 C:\Projects\hello-world-calc\src\main\java\it\akademija\Users\User.java
 C:\Projects\hello-world-calc\src\main\java\it\akademija\Users\CreateUsers.java

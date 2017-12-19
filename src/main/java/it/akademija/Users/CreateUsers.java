@@ -1,10 +1,15 @@
 package it.akademija.Users;
 
+import javax.validation.constraints.NotNull;
+
 public class CreateUsers {
+
+    @NotNull
+
     private String username;
     private String firstName;
     private String lastName;
-    private String meail;
+    private String email;
 
     public String getUsername() {
         return username;
@@ -22,12 +27,12 @@ public class CreateUsers {
         this.lastName = lastName;
     }
 
-    public String getMeail() {
-        return meail;
+    public String getEmail() {
+        return email;
     }
 
-    public void setMeail(String meail) {
-        this.meail = meail;
+    public void setEmail(String email) {
+        this.email = email;
     }
 
     public String getFirstName() {

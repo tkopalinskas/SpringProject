@@ -366,13 +366,6 @@ under the License.
     <orderEntry type="module-library"> 
       <library> 
         <CLASSES>
-          <root url="jar://C:/Users/kepal/.m2/repository/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/"/>
-        </CLASSES>
-      </library> 
-    </orderEntry>  
-    <orderEntry type="module-library"> 
-      <library> 
-        <CLASSES>
           <root url="jar://C:/Users/kepal/.m2/repository/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar!/"/>
         </CLASSES>
       </library> 
@@ -530,6 +523,223 @@ under the License.
           <root url="jar://C:/Users/kepal/.m2/repository/org/springframework/spring-test/4.3.4.RELEASE/spring-test-4.3.4.RELEASE.jar!/"/>
         </CLASSES>
       </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-swagger-ui/2.5.0/springfox-swagger-ui-2.5.0.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-spring-web/2.5.0/springfox-spring-web-2.5.0.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-spi/2.5.0/springfox-spi-2.5.0.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-core/2.5.0/springfox-core-2.5.0.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-swagger2/2.5.0/springfox-swagger2-2.5.0.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/io/swagger/swagger-annotations/1.5.9/swagger-annotations-1.5.9.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/io/swagger/swagger-models/1.5.9/swagger-models-1.5.9.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-schema/2.5.0/springfox-schema-2.5.0.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-swagger-common/2.5.0/springfox-swagger-common-2.5.0.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/mapstruct/mapstruct/1.0.0.Final/mapstruct-1.0.0.Final.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/hibernate/hibernate-validator/5.4.2.Final/hibernate-validator-5.4.2.Final.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/springframework/boot/spring-boot-starter-data-jpa/1.4.2.RELEASE/spring-boot-starter-data-jpa-1.4.2.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/springframework/boot/spring-boot-starter-aop/1.4.2.RELEASE/spring-boot-starter-aop-1.4.2.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/hibernate/hibernate-core/5.0.11.Final/hibernate-core-5.0.11.Final.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/hibernate/hibernate-entitymanager/5.0.11.Final/hibernate-entitymanager-5.0.11.Final.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/springframework/data/spring-data-jpa/1.10.5.RELEASE/spring-data-jpa-1.10.5.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/springframework/data/spring-data-commons/1.12.5.RELEASE/spring-data-commons-1.12.5.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/springframework/spring-orm/4.3.4.RELEASE/spring-orm-4.3.4.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library"> 
+      <library> 
+        <CLASSES>
+          <root url="jar://C:/Users/kepal/.m2/repository/org/springframework/spring-aspects/4.3.4.RELEASE/spring-aspects-4.3.4.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
     </orderEntry> 
   </component>  
   <component name="ModuleRootManager"/>  
@@ -639,23 +849,33 @@ under the License.
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
-      <attribute name="URI" value="/WEB-INF/lib/h2-1.4.193.jar"/>
-      <url>jar://C:/Users/kepal/.m2/repository/com/h2database/h2/1.4.193/h2-1.4.193.jar!/</url>
+      <attribute name="URI" value="/WEB-INF/lib/springfox-swagger-ui-2.5.0.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-swagger-ui/2.5.0/springfox-swagger-ui-2.5.0.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
-      <attribute name="URI" value="/WEB-INF/lib/log4jdbc-spring-boot-starter-1.0.2.jar"/>
-      <url>jar://C:/Users/kepal/.m2/repository/com/integralblue/log4jdbc-spring-boot-starter/1.0.2/log4jdbc-spring-boot-starter-1.0.2.jar!/</url>
+      <attribute name="URI" value="/WEB-INF/lib/springfox-spring-web-2.5.0.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-spring-web/2.5.0/springfox-spring-web-2.5.0.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
-      <attribute name="URI" value="/WEB-INF/lib/spring-context-4.3.4.RELEASE.jar"/>
-      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/spring-context/4.3.4.RELEASE/spring-context-4.3.4.RELEASE.jar!/</url>
+      <attribute name="URI" value="/WEB-INF/lib/guava-18.0.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
-      <attribute name="URI" value="/WEB-INF/lib/spring-aop-4.3.4.RELEASE.jar"/>
-      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/spring-aop/4.3.4.RELEASE/spring-aop-4.3.4.RELEASE.jar!/</url>
+      <attribute name="URI" value="/WEB-INF/lib/classmate-1.3.3.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/com/fasterxml/classmate/1.3.3/classmate-1.3.3.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/slf4j-api-1.7.21.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
@@ -669,28 +889,38 @@ under the License.
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/spring-context-4.3.4.RELEASE.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/spring-context/4.3.4.RELEASE/spring-context-4.3.4.RELEASE.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/spring-aop-4.3.4.RELEASE.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/spring-aop/4.3.4.RELEASE/spring-aop-4.3.4.RELEASE.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
       <attribute name="URI" value="/WEB-INF/lib/spring-expression-4.3.4.RELEASE.jar"/>
       <url>jar://C:/Users/kepal/.m2/repository/org/springframework/spring-expression/4.3.4.RELEASE/spring-expression-4.3.4.RELEASE.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
-      <attribute name="URI" value="/WEB-INF/lib/spring-boot-autoconfigure-1.4.2.RELEASE.jar"/>
-      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/1.4.2.RELEASE/spring-boot-autoconfigure-1.4.2.RELEASE.jar!/</url>
+      <attribute name="URI" value="/WEB-INF/lib/spring-plugin-metadata-1.2.0.RELEASE.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
-      <attribute name="URI" value="/WEB-INF/lib/spring-boot-1.4.2.RELEASE.jar"/>
-      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/boot/spring-boot/1.4.2.RELEASE/spring-boot-1.4.2.RELEASE.jar!/</url>
+      <attribute name="URI" value="/WEB-INF/lib/springfox-spi-2.5.0.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-spi/2.5.0/springfox-spi-2.5.0.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
-      <attribute name="URI" value="/WEB-INF/lib/slf4j-api-1.7.21.jar"/>
-      <url>jar://C:/Users/kepal/.m2/repository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar!/</url>
+      <attribute name="URI" value="/WEB-INF/lib/springfox-core-2.5.0.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-core/2.5.0/springfox-core-2.5.0.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
-      <attribute name="URI" value="/WEB-INF/lib/log4jdbc-log4j2-jdbc4.1-1.16.jar"/>
-      <url>jar://C:/Users/kepal/.m2/repository/org/bgee/log4jdbc-log4j2/log4jdbc-log4j2-jdbc4.1/1.16/log4jdbc-log4j2-jdbc4.1-1.16.jar!/</url>
+      <attribute name="URI" value="/WEB-INF/lib/h2-1.4.193.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/com/h2database/h2/1.4.193/h2-1.4.193.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
@@ -701,6 +931,16 @@ under the License.
       <attribute name="method" value="1"/>
       <attribute name="URI" value="/WEB-INF/lib/spring-boot-starter-1.4.2.RELEASE.jar"/>
       <url>jar://C:/Users/kepal/.m2/repository/org/springframework/boot/spring-boot-starter/1.4.2.RELEASE/spring-boot-starter-1.4.2.RELEASE.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/spring-boot-1.4.2.RELEASE.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/boot/spring-boot/1.4.2.RELEASE/spring-boot-1.4.2.RELEASE.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/spring-boot-autoconfigure-1.4.2.RELEASE.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/1.4.2.RELEASE/spring-boot-autoconfigure-1.4.2.RELEASE.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
@@ -759,8 +999,8 @@ under the License.
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
-      <attribute name="URI" value="/WEB-INF/lib/hibernate-validator-5.2.4.Final.jar"/>
-      <url>jar://C:/Users/kepal/.m2/repository/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/</url>
+      <attribute name="URI" value="/WEB-INF/lib/hibernate-validator-5.4.2.Final.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/hibernate/hibernate-validator/5.4.2.Final/hibernate-validator-5.4.2.Final.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
@@ -771,11 +1011,6 @@ under the License.
       <attribute name="method" value="1"/>
       <attribute name="URI" value="/WEB-INF/lib/jboss-logging-3.3.0.Final.jar"/>
       <url>jar://C:/Users/kepal/.m2/repository/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar!/</url>
-    </containerElement>
-    <containerElement type="library" level="module">
-      <attribute name="method" value="1"/>
-      <attribute name="URI" value="/WEB-INF/lib/classmate-1.3.3.jar"/>
-      <url>jar://C:/Users/kepal/.m2/repository/com/fasterxml/classmate/1.3.3/classmate-1.3.3.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="1"/>
@@ -831,6 +1066,131 @@ under the License.
       <attribute name="method" value="1"/>
       <attribute name="URI" value="/WEB-INF/lib/spring-tx-4.3.4.RELEASE.jar"/>
       <url>jar://C:/Users/kepal/.m2/repository/org/springframework/spring-tx/4.3.4.RELEASE/spring-tx-4.3.4.RELEASE.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/springfox-swagger2-2.5.0.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-swagger2/2.5.0/springfox-swagger2-2.5.0.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/swagger-annotations-1.5.9.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/io/swagger/swagger-annotations/1.5.9/swagger-annotations-1.5.9.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/swagger-models-1.5.9.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/io/swagger/swagger-models/1.5.9/swagger-models-1.5.9.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/springfox-schema-2.5.0.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-schema/2.5.0/springfox-schema-2.5.0.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/springfox-swagger-common-2.5.0.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/io/springfox/springfox-swagger-common/2.5.0/springfox-swagger-common-2.5.0.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/mapstruct-1.0.0.Final.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/mapstruct/mapstruct/1.0.0.Final/mapstruct-1.0.0.Final.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/spring-boot-starter-data-jpa-1.4.2.RELEASE.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/boot/spring-boot-starter-data-jpa/1.4.2.RELEASE/spring-boot-starter-data-jpa-1.4.2.RELEASE.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/spring-boot-starter-aop-1.4.2.RELEASE.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/boot/spring-boot-starter-aop/1.4.2.RELEASE/spring-boot-starter-aop-1.4.2.RELEASE.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/aspectjweaver-1.8.9.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/hibernate-core-5.0.11.Final.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/hibernate/hibernate-core/5.0.11.Final/hibernate-core-5.0.11.Final.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/javassist-3.20.0-GA.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/antlr-2.7.7.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/jandex-2.0.0.Final.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/dom4j-1.6.1.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/xml-apis-1.4.01.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/hibernate-entitymanager-5.0.11.Final.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/hibernate/hibernate-entitymanager/5.0.11.Final/hibernate-entitymanager-5.0.11.Final.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/javax.transaction-api-1.2.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/spring-data-jpa-1.10.5.RELEASE.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/data/spring-data-jpa/1.10.5.RELEASE/spring-data-jpa-1.10.5.RELEASE.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/spring-data-commons-1.12.5.RELEASE.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/data/spring-data-commons/1.12.5.RELEASE/spring-data-commons-1.12.5.RELEASE.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/spring-orm-4.3.4.RELEASE.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/spring-orm/4.3.4.RELEASE/spring-orm-4.3.4.RELEASE.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/spring-aspects-4.3.4.RELEASE.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/springframework/spring-aspects/4.3.4.RELEASE/spring-aspects-4.3.4.RELEASE.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/log4jdbc-spring-boot-starter-1.0.2.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/com/integralblue/log4jdbc-spring-boot-starter/1.0.2/log4jdbc-spring-boot-starter-1.0.2.jar!/</url>
+    </containerElement>
+    <containerElement type="library" level="module">
+      <attribute name="method" value="1"/>
+      <attribute name="URI" value="/WEB-INF/lib/log4jdbc-log4j2-jdbc4.1-1.16.jar"/>
+      <url>jar://C:/Users/kepal/.m2/repository/org/bgee/log4jdbc-log4j2/log4jdbc-log4j2-jdbc4.1/1.16/log4jdbc-log4j2-jdbc4.1-1.16.jar!/</url>
     </containerElement>
     <containerElement type="library" level="module">
       <attribute name="method" value="0"/>

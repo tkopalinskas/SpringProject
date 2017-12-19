@@ -9,6 +9,7 @@ it\akademija\InMemoryProductDAO.class
 it\akademija\Users\User.class
 it\akademija\Users\UserController.class
 it\akademija\Users\UserDao.class
+it\akademija\Users\UserRepository.class
 it\akademija\HelloController.class
 it\akademija\Products.class
 it\akademija\ProductControler.class
